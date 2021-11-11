@@ -1,6 +1,6 @@
 function myfunction() {   
     var a = document.querySelector('input[name="fav_language"]:checked').value;
-    if(a == 5){
+    if(a == 4){
         window.location.replace("Klopfer_2.html")
     }
     else{
